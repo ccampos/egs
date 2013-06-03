@@ -1,0 +1,22 @@
+.meettheteam {
+  background: #cccccc;
+  width: 936px; }
+  .meettheteam .display {
+    background: #ffffff;
+    border: 9px solid #efefef;
+    display: inline-block;
+    height: 376px;
+    width: 527px; }
+  .meettheteam .photos {
+    display: inline-block;
+    height: 398px;
+    margin: 0;
+    width: 387px;
+    vertical-align: top; }
+    .meettheteam .photos .photo {
+      display: inline-block;
+      height: 110px;
+      width: 113px;
+      position: relative; }
+    .meettheteam .photos .row2 {
+      margin: 21px 0 20px 0; }

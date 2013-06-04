@@ -16,6 +16,8 @@
 		width: 387px;
 		vertical-align: top;
 		.photo {
+			background: #ffffff;
+
 			display: inline-block;
 			height: 110px;
 			width: 113px;
@@ -23,7 +25,14 @@
 			position: relative;
 		}
 		.row2 {
-			margin: 21px 0 20px 0;
+			margin: 28px 0 28px 0;
+		}
+		.col2 {
+			margin-left: 12px;
+			margin-right: 13px;
+		}
+		.col1 {
+			margin-left: 10px;
 		}
 	}
 }
